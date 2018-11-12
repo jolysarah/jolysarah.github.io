@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Projet n°1</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>Dans le carde de mon cours des sciences des données, j&#39;apprends à créer un site web complet et présantant mes travaux</description>
     </item>
     
   </channel>

@@ -11,12 +11,12 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Projet n°1</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;Dans le carde de mon cours des sciences des données, j&#39;apprends à créer un site web complet et présantant mes travaux&lt;/p&gt;
 </description>
     </item>
     
@@ -31,18 +31,16 @@
     </item>
     
     <item>
-      <title>Mon premier blog</title>
+      <title>Blog n°1</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;Le contenu ici&lt;/p&gt;
+&lt;h2 id=&#34;site-en-cours-de-construction&#34;&gt;Site en cours de construction&lt;/h2&gt;
 
-&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
-
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+&lt;p&gt;Dans le cardre de mon cours de SDD, je crée ce site. Il est donc succeptible de changer à tout moment puisqu&#39;il n&#39;est pas terminé.&lt;/p&gt;
 </description>
     </item>
     
